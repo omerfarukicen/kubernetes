@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Bileşenler
+title: Ömer faruk İÇENM
 parent: Temel Kavramlar
 nav_order: 3
 ---
 
-# Bileşenler
+#  Ömer faruk İÇENM
 
 https://kubernetes.io/docs/concepts/overview/components/
 
